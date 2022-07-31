@@ -53,3 +53,4 @@ public class P10163 {
     }
     
 }
+//이상현 : 46-47에서 colorPaper로 받지 않고 count를 출력하면 더 좋을것같아요~
