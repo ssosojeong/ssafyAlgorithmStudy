@@ -35,3 +35,8 @@ public class Q10163 {
 		System.out.println(sb);
 	}
 }
+
+/* 김형균
+피드백할께 없나 오랫동안 봤는데 할게 없습니다.
+굳이 한다면 변수명에 의미 담기, 주석의 섬세함, 그리고 31~34줄은 for(int i=1; i<N+1;i++) { System.out.println(ans[i]); } 만해도 같은 결과가 나와요.
+*/
