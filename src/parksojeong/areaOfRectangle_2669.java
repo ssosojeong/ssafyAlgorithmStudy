@@ -3,22 +3,27 @@ import java.util.Scanner;
 public class areaOfRectangle_2669 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int[][] arr = new int[100][100]; // 100*100 ÁÂÇ¥¸¦ 2Â÷¿ø ¹è¿­·Î Ç¥Çö
-		int sum = 0; // ¸éÀûÀ» ´ãÀ» º¯¼ö
-		for (int i = 0; i < 4; i++) { //4°³ÀÇ »ç°¢ÇüÀÌ±â¿¡ ¹İº¹¹®À» µ¹¸°´Ù
+		int[][] arr = new int[100][100]; // 100*100 ì¢Œí‘œë¥¼ 2ì°¨ì› ë°°ì—´ë¡œ í‘œí˜„
+		int sum = 0; // ë©´ì ì„ ë‹´ì„ ë³€ìˆ˜
+		for (int i = 0; i < 4; i++) { //4ê°œì˜ ì‚¬ê°í˜•ì´ê¸°ì— ë°˜ë³µë¬¸ì„ ëŒë¦°ë‹¤
 			int x = sc.nextInt();
 			int y = sc.nextInt();
 			int xplus = sc.nextInt();
 			int yplus = sc.nextInt();
-			for (int j = x; j <= xplus - 1; j++) { //ÇÑÄ­À» ÁÂÇ¥·Î º¸°í Ä­Ä­¸¶´Ù 1¸¦ Ç¥±âÇÏ¸ç sum¿¡ ´õÇØ°£´Ù.
+			for (int j = x; j <= xplus - 1; j++) { //í•œì¹¸ì„ ì¢Œí‘œë¡œ ë³´ê³  ì¹¸ì¹¸ë§ˆë‹¤ 1ë¥¼ í‘œê¸°í•˜ë©° sumì— ë”í•´ê°„ë‹¤.
 				for (int k = y; k <= yplus - 1; k++) {
-					if (arr[j][k] == 0) { // ¸¸¾à ÀÌ¹Ì 1ÀÌ¶ó¸é ¾Æ¹«Çàµ¿µµ ¾ÈÇÑ´Ù.
+					if (arr[j][k] == 0) { // ë§Œì•½ ì´ë¯¸ 1ì´ë¼ë©´ ì•„ë¬´í–‰ë™ë„ ì•ˆí•œë‹¤.
 						arr[j][k] = 1;
 						sum += 1;
 					}
 				}
 			}
 		}
-		System.out.println(sum);//sum Ãâ·Â
+		System.out.println(sum);//sum ì¶œë ¥
 	}
 }
+
+/* ê¹€í˜•ê· 
+í´ë˜ìŠ¤ëª…ì€ íŒŒìŠ¤ì¹¼ í‘œê¸°ë²•, ë³€ìˆ˜ëª…ì€ ì¹´ë©œ í‘œê¸°ë²•ì„ ì‚¬ìš©í•´ ì£¼ì„¸ìš”. 
+ì €ë„ ì•„ì§ í•´ë³´ì§„ ì•Šì•˜ëŠ”ë° í”„ë¡œë‹˜ì´ ë§ì”€ í•˜ì‹œê¸¸ ë‹¤ë¥¸ë¶„ë“¤ ì²˜ëŸ¼ bufferedReaderë¡œ í•˜ë©´ Scannerë³´ë‹¤ ë°›ëŠ” ì†ë„ê°€ í›¨ì”¬ ë¹ ë¥´ë‹¤ê³  í•´ìš”.
+*/
