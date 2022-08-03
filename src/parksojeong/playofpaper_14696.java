@@ -8,32 +8,32 @@ public class playofpaper_14696 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int N = Integer.parseInt(br.readLine()); // ¸î¶ó¿îµå ÇÒ Áö ¹Ş½À´Ï´Ù.
-		for (int i = 0; i < N; i++) { // ¶ó¿îµå È½¼ö´ë·Î ¹İº¹
+		int N = Integer.parseInt(br.readLine()); // ëª‡ë¼ìš´ë“œ í•  ì§€ ë°›ìŠµë‹ˆë‹¤.
+		for (int i = 0; i < N; i++) { // ë¼ìš´ë“œ íšŸìˆ˜ëŒ€ë¡œ ë°˜ë³µ
 
-			String A = br.readLine(); // AÄ«µå ÇÑÁÙÀĞ±â
-			String B = br.readLine(); // BÄ«µå ÇÑÁÙÀĞ±â
+			String A = br.readLine(); // Aì¹´ë“œ í•œì¤„ì½ê¸°
+			String B = br.readLine(); // Bì¹´ë“œ í•œì¤„ì½ê¸°
 
-			int A_count = (A.length()) / 2 + 1; // A Ä«µå ¼ıÀÚ°³¼ö
-			int B_count = (B.length()) / 2 + 1; // B Ä«µå ¼ıÀÚ°³¼ö
+			int A_count = (A.length()) / 2 + 1; // A ì¹´ë“œ ìˆ«ìê°œìˆ˜
+			int B_count = (B.length()) / 2 + 1; // B ì¹´ë“œ ìˆ«ìê°œìˆ˜
 
-			int[] A_arr = new int[A_count]; // A Ä«µå ¼ıÀÚ ´ãÀ» ¹è¿­
-			int[] B_arr = new int[B_count]; // B Ä«µå ¼ıÀÚ ´ãÀ» ¹è¿­
+			int[] A_arr = new int[A_count]; // A ì¹´ë“œ ìˆ«ì ë‹´ì„ ë°°ì—´
+			int[] B_arr = new int[B_count]; // B ì¹´ë“œ ìˆ«ì ë‹´ì„ ë°°ì—´
 
 			StringTokenizer st_A = new StringTokenizer(A);
 			StringTokenizer st_B = new StringTokenizer(B);
-			for (int j = 0; j < A_count; j++) { // AÄ«µå ¼ıÀÚ¸¦ ¹è¿­¿¡ ´ã¾Ò´Ù.
+			for (int j = 0; j < A_count; j++) { // Aì¹´ë“œ ìˆ«ìë¥¼ ë°°ì—´ì— ë‹´ì•˜ë‹¤.
 				A_arr[j] = Integer.parseInt(st_A.nextToken());
 
 			}
-			for (int j = 0; j < B_count; j++) { // BÄ«µå ¼ıÀÚ¸¦ ¹è¿­¿¡ ´ã¾Ò´Ù.
+			for (int j = 0; j < B_count; j++) { // Bì¹´ë“œ ìˆ«ìë¥¼ ë°°ì—´ì— ë‹´ì•˜ë‹¤.
 				B_arr[j] = Integer.parseInt(st_B.nextToken());
 
 			}
 			Arrays.sort(A_arr);
-			Arrays.sort(B_arr); // A¿Í BÀÇ Ä«µå ¼ıÀÚ¸¦ ¿À¸§Â÷¼øÀ¸·Î Á¤·Ä
+			Arrays.sort(B_arr); // Aì™€ Bì˜ ì¹´ë“œ ìˆ«ìë¥¼ ì˜¤ë¦„ì°¨ìˆœìœ¼ë¡œ ì •ë ¬
 
-			if (A_count > B_count) { // B ¼ıÀÚ°³¼ö°¡ ÀûÀ»¶§ÀÇ °æ¿ìÀÇ ¼ö , index¸¦ ÁÙ¿©³ª°¡¸é¼­ ´õ ÀÛÀº ¼ö°¡ ¸ÕÀú³ª¿À´Â ÂÊÀÌ Áø´Ù.
+			if (A_count > B_count) { // B ìˆ«ìê°œìˆ˜ê°€ ì ì„ë•Œì˜ ê²½ìš°ì˜ ìˆ˜ , indexë¥¼ ì¤„ì—¬ë‚˜ê°€ë©´ì„œ ë” ì‘ì€ ìˆ˜ê°€ ë¨¼ì €ë‚˜ì˜¤ëŠ” ìª½ì´ ì§„ë‹¤.
 				for (int j = B_count - 1; j >= 0; j--) {
 					if (A_arr[j] > B_arr[j]) {
 						System.out.println("A");
@@ -42,11 +42,11 @@ public class playofpaper_14696 {
 						System.out.println("B");
 						break;
 					} else if (A_arr[j] == B_arr[j] && j == 0) {
-						System.out.println("A"); // ¸¸¾à ¸¶Áö¸·±îÁö °°´Ù¸é ¿ä¼Ò°¡ ´õ ¸¹Àº A ½Â¸®
+						System.out.println("A"); // ë§Œì•½ ë§ˆì§€ë§‰ê¹Œì§€ ê°™ë‹¤ë©´ ìš”ì†Œê°€ ë” ë§ì€ A ìŠ¹ë¦¬
 					}
 
 				}
-			} else if (B_count > A_count) {// A ¼ıÀÚ°³¼ö°¡ ÀûÀ»¶§ÀÇ °æ¿ìÀÇ ¼ö , index¸¦ ÁÙ¿©³ª°¡¸é¼­ ´õ ÀÛÀº ¼ö°¡ ¸ÕÀú³ª¿À´Â ÂÊÀÌ Áø´Ù.
+			} else if (B_count > A_count) {// A ìˆ«ìê°œìˆ˜ê°€ ì ì„ë•Œì˜ ê²½ìš°ì˜ ìˆ˜ , indexë¥¼ ì¤„ì—¬ë‚˜ê°€ë©´ì„œ ë” ì‘ì€ ìˆ˜ê°€ ë¨¼ì €ë‚˜ì˜¤ëŠ” ìª½ì´ ì§„ë‹¤.
 				for (int j = A_count - 1; j >= 0; j--) {
 					if (A_arr[j] > B_arr[j]) {
 						System.out.println("A");
@@ -55,11 +55,11 @@ public class playofpaper_14696 {
 						System.out.println("B");
 						break;
 					} else if (A_arr[j] == B_arr[j] && j == 0) {
-						System.out.println("B");// ¸¸¾à ¸¶Áö¸·±îÁö °°´Ù¸é ¿ä¼Ò°¡ ´õ ¸¹Àº B½Â¸®
+						System.out.println("B");// ë§Œì•½ ë§ˆì§€ë§‰ê¹Œì§€ ê°™ë‹¤ë©´ ìš”ì†Œê°€ ë” ë§ì€ BìŠ¹ë¦¬
 					}
 
 				}
-			} else {// µÑ´Ù ¼ıÀÚ°³¼ö°¡ °°À»¶§ÀÇ °æ¿ìÀÇ ¼ö , index¸¦ ÁÙ¿©³ª°¡¸é¼­ ´õ ÀÛÀº ¼ö°¡ ¸ÕÀú³ª¿À´Â ÂÊÀÌ Áø´Ù.
+			} else {// ë‘˜ë‹¤ ìˆ«ìê°œìˆ˜ê°€ ê°™ì„ë•Œì˜ ê²½ìš°ì˜ ìˆ˜ , indexë¥¼ ì¤„ì—¬ë‚˜ê°€ë©´ì„œ ë” ì‘ì€ ìˆ˜ê°€ ë¨¼ì €ë‚˜ì˜¤ëŠ” ìª½ì´ ì§„ë‹¤.
 				for (int j = A_count - 1; j >= 0; j--) {
 					if (A_arr[j] > B_arr[j]) {
 						System.out.println("A");
@@ -69,7 +69,7 @@ public class playofpaper_14696 {
 						break;
 					} else if (A_arr[j] == B_arr[j] && j == 0) {
 						System.out.println("D");
-					}// ¸¸¾à ¸¶Áö¸·±îÁö °°´Ù¸é µ¿Á¡Ã³¸®
+					}// ë§Œì•½ ë§ˆì§€ë§‰ê¹Œì§€ ê°™ë‹¤ë©´ ë™ì ì²˜ë¦¬
 
 				}
 
@@ -79,3 +79,4 @@ public class playofpaper_14696 {
 	}
 
 }
+//ì´ìƒí˜„ : ë§Œì•½ ë§ˆì§€ë§‰ê¹Œì§€ ê°™ë‹¤ë©´ ìš”ì†Œê°€ ë” ë§ì€ A,B ìŠ¹ë¦¬ ì´ë¶€ë¶„ì„ else ifë¥¼ ì“°ì§€ ì•Šê³  í¬ë¬¸ ë°–ìœ¼ë¡œ ë¹¼ë©´ ì¢€ë” ê°„ê²°í•´ì§ˆê²ƒê°™ì•„ìš”.
