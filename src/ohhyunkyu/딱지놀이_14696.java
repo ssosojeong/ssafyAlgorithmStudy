@@ -36,6 +36,7 @@ public class 딱지놀이_14696 {
 			int a_ = 0;
 			int b_ = 0;
 			
+			// 모양별 개수 확인    - - - - int a_ = Collections.frequency(Arrays.asList(배열), i); 왜 안될까
 			for(int j=0; j < a.length; j++) {
 				if(a[j] == i) {
 					a_++;
@@ -47,6 +48,7 @@ public class 딱지놀이_14696 {
 				}
 			}
 			
+			// 개수 비교 및 결과 도출
 			if (a_ > b_) {
 				System.out.println("A");
 				break;
