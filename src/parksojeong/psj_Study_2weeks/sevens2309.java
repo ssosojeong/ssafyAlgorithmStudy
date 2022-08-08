@@ -3,7 +3,7 @@ package sj;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class sevens2309 {
+public class sevens2309 {	
 	public static void main(String[] args) {
 		// 9명중에 2명씩 빼는 반복문을 돌린다.
 		// 나머지 합이 100이되면 반복문을 멈추고 배열에 저장하여 오름차순으로 나열출력
@@ -42,3 +42,4 @@ public class sevens2309 {
 //이게 틀렸다고 나오는데 왜 틀렸는지 모르겠으요.
 //이상현 : for문에 break가 두번째 for문만 빠져나오기 때문입니다. 만약 last의 값이 23이고 7명의 난쟁이 중, 23인 난쟁이가 있으면, 이미0이 되어버린 height[j]+23 ==23 이 되기때문에
 //        그 난쟁이도 0이 되어버려서 틀린 답이 됩니다.
+//김형균 : break label 을 사용하면 되는거 같네용
