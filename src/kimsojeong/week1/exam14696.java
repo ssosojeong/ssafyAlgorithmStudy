@@ -24,14 +24,14 @@ public class exam14696 {
             int nA = Integer.parseInt(st.nextToken());
             while(nA-->0) {
                 arrA[Integer.parseInt(st.nextToken())]++;
-            }
+            }   // 0 0 0 0 1
 
             //B의 카드 패를 배열에 저장
             st = new StringTokenizer(br.readLine()," ");
             int nB = Integer.parseInt(st.nextToken());
             while(nB-->0) {
                 arrB[Integer.parseInt(st.nextToken())]++;
-            }
+            }   // 0 1 1 2 0
 
             String ans = "D";
             //가장 우선 순위가 높은 별 모양부터 갯수를 비교
