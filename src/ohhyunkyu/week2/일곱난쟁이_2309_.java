@@ -31,3 +31,4 @@ public class 일곱난쟁이_2309_ {
 		}
 	} // main
 } // class
+// 이상현 : small의 i와 j를 0으로 만든다음에 break로 for문을 다 종료시킨다음 코드를 전개하면 더 이쁠 것 같아요.
