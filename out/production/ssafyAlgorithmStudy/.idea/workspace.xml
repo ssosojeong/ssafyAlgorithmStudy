@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong">
+    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220808 sojeong">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam10158.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week1/exam14696.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week1/exam14696.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +53,26 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="src.kimsojeong.week2" />
       <recent name="src.kimsojeong.week1" />
       <recent name="src.parksojeong" />
       <recent name="src.ohhyunkyu" />
       <recent name="src.leesanghyun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exam2309">
+  <component name="RunManager" selected="Application.exam10158">
+    <configuration name="P2669" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week1.P2669" />
+      <module name="ssafyAlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.kimsojeong.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exam10158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week2.exam10158" />
       <module name="ssafyAlgorithmStudy" />
@@ -98,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exam2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week2.exam2309" />
-      <module name="ssafyAlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.kimsojeong.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="exam2605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week2.exam2605" />
       <module name="ssafyAlgorithmStudy" />
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exam2309" />
         <item itemvalue="Application.exam10158" />
         <item itemvalue="Application.exam2304" />
         <item itemvalue="Application.exam1244" />
         <item itemvalue="Application.exam2605" />
+        <item itemvalue="Application.P2669" />
       </list>
     </recent_temporary>
   </component>
@@ -170,14 +171,7 @@
       <option name="project" value="LOCAL" />
       <updated>1659890472450</updated>
     </task>
-    <task id="LOCAL-00004" summary="220810 sojeong">
-      <created>1660062199618</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660062199618</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +193,6 @@
     <MESSAGE value="sojeong day1" />
     <MESSAGE value="220802 sojeong" />
     <MESSAGE value="220808 sojeong" />
-    <MESSAGE value="220810 sojeong" />
-    <option name="LAST_COMMIT_MESSAGE" value="220810 sojeong" />
+    <option name="LAST_COMMIT_MESSAGE" value="220808 sojeong" />
   </component>
 </project>
