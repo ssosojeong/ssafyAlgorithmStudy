@@ -84,3 +84,4 @@ public class switch1244 {
 		System.out.println(Arrays.toString(switchs));
 	}
 }
+//틀렸다고하는데 컴텨 정답보다 제것이 정답이라 생각하는데 질문을 잘못읽은건가 싶습니다
