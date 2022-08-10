@@ -1,7 +1,5 @@
-// 왜 안될까..
-
+// 자꾸 틀렸던 이유는 단계별 확인한다고 sysout 걸어놓은 것들 때문이었습니다.. 절레절레.
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -27,7 +25,6 @@ public class 창고다각형_2304 {
 				//.... 를 따로 구해야 하네. 여기서 하면 max 바뀔 때마다 들어감.
 			}
 		}
-		System.out.println(max);
 		
 		int idx = 0; // 최고 높이 기둥들의 위치를 찾아보자.
 
@@ -63,7 +60,6 @@ public class 창고다각형_2304 {
 		}else if (lidx == 0) {
 			lsum = wh[lIdx.get(0)] * (maxIdx.get(0) - lIdx.get(0));
 		}
-		System.out.println(lsum);
 		
 		int rh = 0; // 오른쪽에서 기둥 높이 측정
 
@@ -88,7 +84,6 @@ public class 창고다각형_2304 {
 		}else if(ridx == 0) {
 			rsum = wh[rIdx.get(0)] * ((rIdx.get(0)) - maxIdx.get(maxIdx.size()-1));
 		}
-		System.out.println(rsum);
 		
 		// 가장 높은 기둥들 추가해서 면적구하기
 
@@ -97,7 +92,7 @@ public class 창고다각형_2304 {
 		if (maxIdx.size() == 1) { // 가장 높은 기둥이 하나
 			res += max;
 		} else { // 둘 이상
-			res += max * ((maxIdx.get(maxIdx.size() - 1)) - maxIdx.get(0));
+			res += max * ((maxIdx.get(maxIdx.size() - 1)+1) - maxIdx.get(0));
 		}
 
 		System.out.println(res);
