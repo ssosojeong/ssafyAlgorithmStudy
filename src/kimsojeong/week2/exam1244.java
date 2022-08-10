@@ -48,7 +48,7 @@ public class exam1244 {
     //반복 횟수는 왼쪽으로 비교 가능한 횟수와 오른쪽으로 비교 가능한 횟수 중 작은 값
     //배열이 0부터 시작하므로 인자 넘겨줄 때 -1 해줌 (line 26)
     public static void femaleSwitch(int idx){
-        for(int i=0; i<=Math.min(N-idx-1,idx-0); i++){
+        for(int i=0; i<=Math.min(N-idx-1,idx); i++){
             if(switches[idx-i]==switches[idx+i]) {
                 switches[idx-i] = switches[idx+i] = 1-switches[idx-i];
             } else

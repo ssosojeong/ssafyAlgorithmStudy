@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week2/P2304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week2/P2304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week2/P2605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week2/P2605.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam1244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam1244.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam2304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam2304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week2/스위치켜고끄기_1244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week2/스위치켜고끄기_1244.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parksojeong/psj_Study_2weeks/ants10158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parksojeong/psj_Study_2weeks/ants10158.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
