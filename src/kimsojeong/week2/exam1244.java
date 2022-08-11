@@ -12,7 +12,7 @@ public class exam1244 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        //학생 수와 스위치 초기 상태 입력
+        //스위치 수와 스위치 초기 상태 입력
         N = Integer.parseInt(br.readLine());
         switches = new int[N];
         StringTokenizer st = new StringTokenizer(br.readLine()," ");
