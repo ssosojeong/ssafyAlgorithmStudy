@@ -12,8 +12,8 @@ public class P2491 {
 		int N = Integer.parseInt(br.readLine()); // 입력 받을 수열 갯수
 		StringTokenizer st = new StringTokenizer(br.readLine()); // 수열 입력 받기
 		
-		int ascendingOrderMax =1; //오름차순 중 가장 길이가 길 때 값 저장 
-		int descendingOrderMax = 1; //내림차순 중 가장 길이가 길 때 값 저장
+		int ascendingOrderMax =1; //오름차순 중 가장 길이가 길 때 값 저장 (얘가 1이 아니면 N이 1일 때 값이 0이 나옴)
+		int descendingOrderMax = 1; //내림차순 중 가장 길이가 길 때 값 저장 (얘가 1이 아니면 N이 1일 때 값이 0이 나옴)
 		
 		
 		int[] arr = new int[N]; 
