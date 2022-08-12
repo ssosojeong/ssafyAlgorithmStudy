@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="src/ohhyunkyu/week2/|src/leesanghyun/|src/kimhyungkyun/|src/ohhyunkyu/|src/parksojeong/PSJ_1week/" kind="src" path=""/>
+	<classpathentry kind="src" path="src/kimhyungkyun"/>
+	<classpathentry kind="src" path="src/leesanghyun"/>
+	<classpathentry excluding="week2/" kind="src" path="src/ohhyunkyu"/>
+	<classpathentry kind="src" path="src/ohhyunkyu/week2"/>
+	<classpathentry kind="src" path="src/parksojeong/PSJ_1week"/>
+	<classpathentry kind="output" path="out/production/ssafyAlgorithmStudy"/>
+</classpath>
