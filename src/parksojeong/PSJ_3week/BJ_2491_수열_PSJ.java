@@ -5,27 +5,29 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
-public class BJ_2491_¼ö¿­_PSJ {
+// ëŠ˜ì–´ë‚˜ëŠ” ê²ƒë§Œ í•˜ê³  ì¤„ì–´ë“œëŠ”ê±´ ë†“ì¹ ë»”í–ˆì–´ìš” ë¬¸ì œë¥¼ ê¼¼ê¼¼íˆ ì½ëŠ”ê²Œ ì¤‘ìš”í•œê±¸ ì•Œì•˜ìŠµì£ !
+public class BJ_2491_ìˆ˜ì—´_PSJ {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		int howMany = Integer.parseInt(br.readLine());
 		int[] numbers = new int[howMany];
 		
-		// ¼ıÀÚµé ¹è¿­¸¸µé±â
+		// ìˆ«ìë“¤ ë°°ì—´ë§Œë“¤ê¸°
 		st = new StringTokenizer(br.readLine());
 		for (int i = 0; i < howMany; i++) {
 			numbers[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		// ¸î¹ø ¿¬¼ÓµÉÁö ÃÖ´ñ°ª ÀúÀåÇÒ º¯¼ö ¼±¾ğ
+		// ëª‡ë²ˆ ì—°ì†ë ì§€ ìµœëŒ“ê°’ ì €ì¥í•  ë³€ìˆ˜ ì„ ì–¸
 		int max = 0;
-		// Ä¿Áú ¶§ ÃÖ´ë°ª ±¸ÇÏ±â
+		// ì»¤ì§ˆ ë•Œ ìµœëŒ€ê°’ êµ¬í•˜ê¸°
 		for (int i = 0; i < howMany; i++) {
 			int now = i;
+			//nowì—ì„œ ì´ë¯¸ 1ì´ ë”í•´ì§„ë‹¤.
 			int count = 1;
 			while (true) {
+				//  nowì—ì„œ 1 ë” ê°”ì„ë•Œ ë²”ìœ„ ë²—ì–´ë‚˜ëŠ”ê±° ë°©ì§€
 				if (now + 1 == howMany) {
 					break ;
 				}
@@ -40,13 +42,15 @@ public class BJ_2491_¼ö¿­_PSJ {
 				max = count;
 			}
 
-		} // Ä¿Áú¶§ ÃÖ´ñ°ª end
+		} // ì»¤ì§ˆë•Œ ìµœëŒ“ê°’ end
 		
-		// ÀÛ¾ÆÁú ¶§ ÃÖ´ë°ª ±¸ÇÏ±â
+		// ì‘ì•„ì§ˆ ë•Œ ìµœëŒ€ê°’ êµ¬í•˜ê¸°
 				for (int i = 0; i < howMany; i++) {
 					int now = i;
+					//nowì—ì„œ ì´ë¯¸ 1ì´ ë”í•´ì§„ë‹¤.
 					int count = 1;
 					while (true) {
+						//  nowì—ì„œ 1 ë” ê°”ì„ë•Œ ë²”ìœ„ ë²—ì–´ë‚˜ëŠ”ê±° ë°©ì§€
 						if (now + 1 == howMany) {
 							break ;
 						}
@@ -61,7 +65,7 @@ public class BJ_2491_¼ö¿­_PSJ {
 						max = count;
 					}
 
-				} // ÀÛ¾ÆÁú¶§ ÃÖ´ñ°ª end
+				} // ì‘ì•„ì§ˆë•Œ ìµœëŒ“ê°’ end
 		
 		
 		System.out.println(max);
