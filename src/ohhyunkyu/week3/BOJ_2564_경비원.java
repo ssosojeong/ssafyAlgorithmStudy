@@ -45,7 +45,7 @@ public class BOJ_2564_경비원 {
 				search[i] = dir[3] + p; 
 			}
 		}
-		System.out.println(Arrays.toString(search));
+		
 		// 동근이와 각 상점 사이 최단 거리의 합 구하기
 		
 		int sum = 0;
