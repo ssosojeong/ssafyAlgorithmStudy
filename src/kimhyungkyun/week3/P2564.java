@@ -87,3 +87,6 @@ public class P2564 {
 		return nearest;
 	}
 }
+
+//김소정: 읽어보니까 arr에 상점을 표시하시고, 또 rows와 cols에 각 상점의 x,y좌표값을 저장하시는데
+//		 nearest()에선 arr를 사용 안하시는 것 같습니다! 혹시 이게 어디에 사용되는걸까요..?!
