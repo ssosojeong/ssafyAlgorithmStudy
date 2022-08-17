@@ -72,3 +72,6 @@ public class BOJ_2564_경비원 {
 		System.out.println(sum);
 	} // main
 } // class
+
+
+// 아래 절대값으로 할 거면 최소값 그냥 구할 수 있을지도..?
