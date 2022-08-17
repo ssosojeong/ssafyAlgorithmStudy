@@ -43,3 +43,7 @@ public class exam2491 {
 		   System.out.println(max);
 	}
 }
+
+
+// 오현규: 코드가 간결하고 이해하기도 편합니다. ?를 사용한 코드를 처음 봐서 공부가 되었습니다!
+
