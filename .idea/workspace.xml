@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong fb">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_08_08_1_41___Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_08_08_1_41_오전_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_10157_자리배정_인덱스오류해결재시도.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2564_경비원.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_10157_자리배정_PSJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2491.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2491.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2563.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week3/P2564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2563.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2564.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leesanghyun/week3/Q2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leesanghyun/week3/Q2564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2491_수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2491_수열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2491_수열_PSJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2491_수열_PSJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2564_경비원_PSJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2564_경비원_PSJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2635_수이어가기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2635_수이어가기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2563_색종이_PSJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2563_색종이_PSJ.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
