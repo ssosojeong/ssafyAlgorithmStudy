@@ -21,6 +21,7 @@ public class exam2527 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
+		StringBuilder sb = new StringBuilder();
 		
 		for(int t=1; t<=4; t++) {
 			st = new StringTokenizer(br.readLine());
@@ -46,16 +47,17 @@ public class exam2527 {
 				ans = 'c';
 			}
 			//선이 겹칠 때 
-//			else if( ((p1==x2) && (q1!=y2)) || (y1==q2) &&  ) {
-//				ans = 'b';
-//			} 
+			else if( (x1==p2) || (p1==x2) || (p1==x2) || (x1==p2) ) {
+				ans = 'b';
+			} 
 			//직사각형으로 겹칠 때
 			else {
 				ans = 'a';
 			}
 			
-			System.out.println(ans);
+			sb.append(ans+"\n");
 			
 		}
+		System.out.print(sb);
 	}
 }
