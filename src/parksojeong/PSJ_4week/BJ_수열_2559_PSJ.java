@@ -1,25 +1,25 @@
 import java.util.Scanner;
 
-public class BJ_¼ö¿­_2559_PSJ {
+public class BJ_ìˆ˜ì—´_2559_PSJ {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt(); // ¿Âµµ ¼ö
-		int K = sc.nextInt(); // ¿¬¼ÓµÇ´Â ¼ö
-		int[] temper = new int[N]; // ¿Âµµ ÀúÀåÇÏ´Â ¹è¿­
+		int N = sc.nextInt(); // ì˜¨ë„ ìˆ˜
+		int K = sc.nextInt(); // ì—°ì†ë˜ëŠ” ìˆ˜
+		int[] temper = new int[N]; // ì˜¨ë„ ì €ì¥í•˜ëŠ” ë°°ì—´
 
-		for (int i = 0; i < N; i++) {// ¿Âµµ¸¦ ¹è¿­¿¡ ÀúÀåÇÑ´Ù.
+		for (int i = 0; i < N; i++) {// ì˜¨ë„ë¥¼ ë°°ì—´ì— ì €ì¥í•œë‹¤.
 			temper[i] = sc.nextInt();
 		}
 
 		int max = 0;
-
+//ê¹€í˜•ê·  : ì—¬ê¸°ë¥¼ int max = Integer.MIN_VALUE;ë¡œ ë°”ê¾¸ë©´ ë©ë‹ˆë‹¤!
 		for (int i = 0; i <= N - K; i++) {
-			int sum = 0; // ¿¬¼ÓµÇ´Â ¿ÂµµÀÇ ÇÕ
+			int sum = 0; // ì—°ì†ë˜ëŠ” ì˜¨ë„ì˜ í•©
 			for (int j = 0; j < K; j++) {
-				sum += temper[i + j]; // ¿¬¼ÓÇÏ´Â ¿ÂµµÀÇ ÇÕ°è¸¦ ÀúÀå
+				sum += temper[i + j]; // ì—°ì†í•˜ëŠ” ì˜¨ë„ì˜ í•©ê³„ë¥¼ ì €ì¥
 			}
 			if (sum > max) {
-				max = sum; // max¿Í ºñ±³ÇØ¼­ ÃÖ´ë°ªÀ» ±¸ÇÑ´Ù.
+				max = sum; // maxì™€ ë¹„êµí•´ì„œ ìµœëŒ€ê°’ì„ êµ¬í•œë‹¤.
 			}
 		}
 		System.out.println(max);
