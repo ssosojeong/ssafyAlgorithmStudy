@@ -26,3 +26,4 @@ public class BJ_수열_2559_PSJ {
 
 	}
 }
+//김형균 : runtime을 만약 줄이고 싶으시다면 BufferedReader 쓰니까 반토막나고 2중 for문을 단일 for문으로 바꾸어서 구현하니 나머지의 1/5 정도가 되네용.
