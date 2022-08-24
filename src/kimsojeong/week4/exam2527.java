@@ -47,7 +47,7 @@ public class exam2527 {
 				ans = 'c';
 			}
 			//선이 겹칠 때 
-			else if( (x1==p2) || (p1==x2) || (p1==x2) || (x1==p2) ) {
+			else if( (x1==p2) || (p1==x2) || (q1==y2) || (y1==q2) ) {
 				ans = 'b';
 			} 
 			//직사각형으로 겹칠 때
