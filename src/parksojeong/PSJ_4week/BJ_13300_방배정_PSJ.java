@@ -52,3 +52,4 @@ public class BJ_13300_방배정_PSJ {
 		System.out.println(sum);
 	}
 }
+// 이상현 38-48부분 구간 나눌필요 없이 sum += Math.ceil(girl[i]/K); sum += Math.ceil(boy[i]/K); 쓰면 되지 않을까요?
