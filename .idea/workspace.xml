@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong fb">
-      <change afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_10157_자리배정_인덱스오류해결재시도.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2564_경비원.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_10157_자리배정_PSJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leesanghyun/week3/Q2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leesanghyun/week3/Q2564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2635_수이어가기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week3/BOJ_2635_수이어가기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2563_색종이_PSJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parksojeong/PSJ_3week/BJ_2563_색종이_PSJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week4/P2628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week4/P2628.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam2527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam2527.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leesanghyun/week4/Q2527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leesanghyun/week4/Q2527.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week4/BOJ_2477_참외밭_실버3_재시도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week4/BOJ_2477_참외밭_실버3_재시도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ohhyunkyu/week4/BOJ_2559_수열_실버3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ohhyunkyu/week4/BOJ_2559_수열_실버3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
