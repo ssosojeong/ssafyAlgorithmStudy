@@ -56,7 +56,7 @@ public class P10157 {
 					StartIndexC += dc[direction];
 				}
 				
-				if(StartIndexC<0 ||StartIndexC>=C ||arr[StartIndexR][StartIndexC]!=0) { /열을 변환하던 중 벽 or 값이 있는 곳에 부딪힐 때
+				if(StartIndexC<0 ||StartIndexC>=C ||arr[StartIndexR][StartIndexC]!=0) { //열을 변환하던 중 벽 or 값이 있는 곳에 부딪힐 때
 					StartIndexR += dr[(direction+1)%4]; // 방향이 1이여서 오른쪽으로 가야할 때는 아래쪽으로 이동, 방향이 3이여서 왼쪽으로 갈 때는 위쪽으로
 					StartIndexC += dc[(direction+2)%4]; // Col를 한칸 오버하게 이동 했기 때문에 반대 방향으로 다시 조정해주는 것
 					direction += 1;
