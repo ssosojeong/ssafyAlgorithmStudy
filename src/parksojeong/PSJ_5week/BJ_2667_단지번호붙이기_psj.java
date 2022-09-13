@@ -1,4 +1,4 @@
-package BJ_Study_7;
+//당연히 제가짠건 아니구 ㅎㅎ 참고하면서 공부했습니다!
 
 import java.util.List;
 import java.util.ArrayList;
