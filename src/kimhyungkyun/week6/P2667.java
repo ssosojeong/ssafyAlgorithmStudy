@@ -65,3 +65,18 @@ public class P2667 {
 		//만약에 char(1)이고 v가 false인 곳은 true로 바꿔주고 값을 session으로 교환해주면 된다.
 	}//dfs
 }//class
+//이상현 : count.size()를 사용하면 session 변수를 사용하지 않아도 될 것 같습니다.
+/*
+52~59부분
+	private static void dfs(int r, int c) {
+		v[r][c] = true;
+		counting++;
+		for (int i = 0; i < 4; n++) {
+			int nr = r + dr[i];
+			int nc = c + dc[i];
+			if (nr >= 0 && nr < N && nc >= 0 && nc < N)
+				if (!v[nr][nc] && arr[nr][nc] == '1')
+					dfs(nr, nc);
+		}
+	}
+*/
