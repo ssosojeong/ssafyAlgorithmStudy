@@ -1,4 +1,4 @@
-package src.kimsojeong.month8.week2;
+package src.kimsojeong.week2;
 
 import java.io.*;
 import java.util.StringTokenizer;

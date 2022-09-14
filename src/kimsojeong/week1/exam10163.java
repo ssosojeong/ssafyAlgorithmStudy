@@ -1,4 +1,4 @@
-package src.kimsojeong.month8.week1;
+package src.kimsojeong.week1;
 
 import java.util.Scanner;
 

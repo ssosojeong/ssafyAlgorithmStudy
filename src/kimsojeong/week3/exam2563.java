@@ -1,4 +1,4 @@
-package src.kimsojeong.month8.week3;
+package src.kimsojeong.week3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
