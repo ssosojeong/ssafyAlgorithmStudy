@@ -1,4 +1,4 @@
-//Ç®ÀÌ ¹æ¹ı : 
+//í’€ì´ ë°©ë²• : ë§‰ëŒ€ì˜ ê°¯ìˆ˜ë¥¼ ì´ì§„ìˆ˜ë¡œ ë‚˜íƒ€ ëƒˆì„ ë•Œ 1ì˜ ê°¯ìˆ˜ë¡œ í‘œí˜„í•  ìˆ˜ ìˆìœ¼ë¯€ë¡œ 1ì˜ ê°¯ìˆ˜ë¥¼ ì¹´ìš´íŠ¸ í•´ì£¼ëŠ” ë°©ë²•ìœ¼ë¡œ í•´ê²°
 
 
 package study;
@@ -6,12 +6,12 @@ package study;
 import java.util.Scanner;
 
 public class P1094 {
-	static int X; // ºÙÇô¾ßÇÒ ¸·´ëÀÇ °¹¼ö
+	static int X; // ë¶™í˜€ì•¼í•  ë§‰ëŒ€ì˜ ê°¯ìˆ˜
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		X = sc.nextInt();
 		
-		divide(64);//Ã³À½ °¡Áö°í ÀÖ´ø ¸·´ë ±æÀÌ
+		divide(64);//ì²˜ìŒ ê°€ì§€ê³  ìˆë˜ ë§‰ëŒ€ ê¸¸ì´
 		
 		sc.close();
 	}//main
