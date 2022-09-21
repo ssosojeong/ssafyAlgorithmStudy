@@ -4,52 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong fb">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam10819.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam1476.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam9663.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220914 sojeong">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/areaOfRectangle_2669.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/areaOfRectangle_2669.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/colorpaper_10163.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/colorpaper_10163.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/playofpaper_14696.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/playofpaper_14696.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week1/exam10163.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week1/exam14696.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week1/exam2578.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week1/exam2669.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/exam10158.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/exam1244.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/exam2304.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/exam2309.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/src/kimsojeong/week2/exam2605.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/P2309.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/P2309.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Q2304$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Q2304$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Q2304.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week2/Q2304.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week3/P10157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week3/P10157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week1/exam10163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam10163.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week1/exam14696.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam14696.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week1/exam2578.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam2578.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week1/exam2669.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam2669.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam10158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam10158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam1244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam1244.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam2304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam2309.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2309.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week2/exam2605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2605.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam10157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam10157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2491.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2491.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2563.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week3/exam2635.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2635.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam13300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam13300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam2477.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2477.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam2527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2527.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam2559.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2559.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/week4/exam2628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2628.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,26 +57,13 @@
       <recent name="src.leesanghyun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exam9663">
-    <configuration name="exam10158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.month8.week2.exam10158" />
-      <module name="ssafyAlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.kimsojeong.month8.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exam24444">
     <configuration name="exam10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.month9.week1.exam10819" />
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week5.exam10819" />
       <module name="ssafyAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.kimsojeong.month9.week1.*" />
+          <option name="PATTERN" value="src.kimsojeong.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="exam1476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.month9.week1.exam1476" />
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week5.exam1476" />
       <module name="ssafyAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.kimsojeong.month9.week1.*" />
+          <option name="PATTERN" value="src.kimsojeong.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +85,24 @@
       </method>
     </configuration>
     <configuration name="exam2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.month8.week2.exam2309" />
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week2.exam2309" />
       <module name="ssafyAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.kimsojeong.month8.week2.*" />
+          <option name="PATTERN" value="src.kimsojeong.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam24444" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week6.exam24444" />
+      <module name="ssafyAlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.kimsojeong.week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="exam9663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.month9.week1.exam9663" />
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week5.exam9663" />
       <module name="ssafyAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.kimsojeong.month9.week1.*" />
+          <option name="PATTERN" value="src.kimsojeong.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,17 +126,17 @@
     <list>
       <item itemvalue="Application.exam1476" />
       <item itemvalue="Application.exam2309" />
-      <item itemvalue="Application.exam10158" />
       <item itemvalue="Application.exam10819" />
       <item itemvalue="Application.exam9663" />
+      <item itemvalue="Application.exam24444" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exam24444" />
         <item itemvalue="Application.exam9663" />
         <item itemvalue="Application.exam10819" />
         <item itemvalue="Application.exam1476" />
         <item itemvalue="Application.exam2309" />
-        <item itemvalue="Application.exam10158" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660135702680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="220914 sojeong">
+      <created>1663143164986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663143164986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,18 +221,19 @@
     <MESSAGE value="220808 sojeong" />
     <MESSAGE value="220810 sojeong" />
     <MESSAGE value="220810 sojeong fb" />
-    <option name="LAST_COMMIT_MESSAGE" value="220810 sojeong fb" />
+    <MESSAGE value="220914 sojeong" />
+    <option name="LAST_COMMIT_MESSAGE" value="220914 sojeong" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/kimsojeong/month9/week1/exam10819.java</url>
+          <url>file://$PROJECT_DIR$/src/kimsojeong/week5/exam10819.java</url>
           <line>24</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/kimsojeong/month9/week1/exam9663.java</url>
+          <url>file://$PROJECT_DIR$/src/kimsojeong/week5/exam9663.java</url>
           <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

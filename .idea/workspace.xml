@@ -4,35 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220810 sojeong fb">
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week5/exam16637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week6/exam24444.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week6/exam24479.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week6/exam2606.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kimsojeong/week6/exam2667.java" afterDir="false" />
+    <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220919 sojeong">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam10163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week1/exam10163.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam14696.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week1/exam14696.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam2578.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week1/exam2578.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week1/exam2669.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week1/exam2669.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam10158.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam10158.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam1244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam1244.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam2304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2309.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam2309.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week2/exam2605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week2/exam2605.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam10157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam10157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2491.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2491.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2563.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2563.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2564.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2564.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week3/exam2635.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week3/exam2635.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam13300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam13300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2477.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam2477.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam2527.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2559.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam2559.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month8/week4/exam2628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week4/exam2628.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam10819.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week5/exam10819.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam1476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week5/exam1476.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimsojeong/month9/week1/exam9663.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimsojeong/week5/exam9663.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q10819.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q10819.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q1476.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q1476.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q16637.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q16637.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week7/P1780.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week7/P1780.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week7/P2740.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week7/P2740.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leesanghyun/week7/Q1992.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leesanghyun/week7/Q1992.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,32 +52,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/kimsojeong/week7" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/kimsojeong/week7" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.kimsojeong.week7" />
       <recent name="src.kimsojeong.week2" />
       <recent name="src.kimsojeong.week1" />
       <recent name="src.parksojeong" />
       <recent name="src.ohhyunkyu" />
-      <recent name="src.leesanghyun" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exam9663">
-    <configuration name="exam10158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week2.exam10158" />
-      <module name="ssafyAlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.kimsojeong.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exam24444">
     <configuration name="exam10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week5.exam10819" />
       <module name="ssafyAlgorithmStudy" />
@@ -137,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exam24444" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week6.exam24444" />
+      <module name="ssafyAlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.kimsojeong.week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exam9663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.kimsojeong.week5.exam9663" />
       <module name="ssafyAlgorithmStudy" />
@@ -153,17 +136,17 @@
     <list>
       <item itemvalue="Application.exam1476" />
       <item itemvalue="Application.exam2309" />
-      <item itemvalue="Application.exam10158" />
       <item itemvalue="Application.exam10819" />
       <item itemvalue="Application.exam9663" />
+      <item itemvalue="Application.exam24444" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exam24444" />
         <item itemvalue="Application.exam9663" />
         <item itemvalue="Application.exam10819" />
         <item itemvalue="Application.exam1476" />
         <item itemvalue="Application.exam2309" />
-        <item itemvalue="Application.exam10158" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660135702680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="220914 sojeong">
+      <created>1663143164986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663143164986</updated>
+    </task>
+    <task id="LOCAL-00007" summary="220919 sojeong">
+      <created>1663570776023</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663570776023</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +238,9 @@
     <MESSAGE value="220808 sojeong" />
     <MESSAGE value="220810 sojeong" />
     <MESSAGE value="220810 sojeong fb" />
-    <option name="LAST_COMMIT_MESSAGE" value="220810 sojeong fb" />
+    <MESSAGE value="220914 sojeong" />
+    <MESSAGE value="220919 sojeong" />
+    <option name="LAST_COMMIT_MESSAGE" value="220919 sojeong" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

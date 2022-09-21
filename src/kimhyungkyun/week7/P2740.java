@@ -59,3 +59,5 @@ public class P2740 {
 	}//matProduct
 
 }//class
+
+//김소정: 어차피 N,M,K는 다 주어지니까 그냥 맨 처음에 static으로 선언해놓고 빼서 써도 될 것 같아요!
