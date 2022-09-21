@@ -61,3 +61,8 @@ public class BOJ_1992_쿼드트리_실버1 {
 		System.out.println(sb.toString());
 	}
 }
+//김형균 : map 배열은 int[][]로 되어 있는데 안에 있는 값이 꼭 int이여야 할 이유가 없기 때문에 아래와 같이 String 메소드를 이용해서 char값으로 받아서 사용해도 괜찮을꺼 같습니다.
+//		for(int n=0;n<N;n++) {
+//			String st = br.readLine();
+//			arr[n] = st.toCharArray();
+//		}//for
