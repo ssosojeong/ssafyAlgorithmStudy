@@ -58,3 +58,9 @@ public class P1780 {
 	}//main
 
 }//class
+//이상현 : 33~35
+//for (int i = 0; i < 3; i++) {
+//	for (int j = 0; j < 3; j++) {
+//		div(N/3, x + j * 3 / N, y + j * 3 / N);
+//	}
+//}
