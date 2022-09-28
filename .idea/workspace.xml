@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5827c9c-5706-4b26-8a1d-f554b4aedb1b" name="Changes" comment="220919 sojeong">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q10819.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q10819.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q1476.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q1476.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q16637.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ssafyAlgorithmStudy/week5/Q16637.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week7/P1780.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week7/P1780.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week7/P2740.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week7/P2740.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leesanghyun/week7/Q1992.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leesanghyun/week7/Q1992.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kimhyungkyun/week8/P7576_re.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kimhyungkyun/week8/P7576_re.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
