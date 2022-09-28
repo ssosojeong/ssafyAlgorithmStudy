@@ -29,9 +29,8 @@ public class BOJ_14888_연산자끼워넣기_실버1 {
 	public static void calc(int idx, int res) {
 		//피연산자를 다 사용하고 나면 결과 리턴
 		if(idx == N) {
-			//결과가 일치하는 경우까지 고려하여 등호 사용
-			max = res >= max ? res : max; 
-			min = res <= min ? res : min; 
+			max = res > max ? res : max; 
+			min = res < min ? res : min; 
 			return;
 		}
 		
