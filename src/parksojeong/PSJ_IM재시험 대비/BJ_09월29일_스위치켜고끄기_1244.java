@@ -29,8 +29,10 @@ public class BJ_스위치켜고끄기_1244 {
 			}
 		} // 테케
 		for (int i = 1; i < switchs.length; i++) {
-
 			System.out.print(switchs[i]+" ");
+			if(i%20 == 0) {
+			System.out.println();
+			}
 		}
 
 	}
