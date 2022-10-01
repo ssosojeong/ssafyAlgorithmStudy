@@ -2,19 +2,19 @@ package practice_1001;
 
 import java.util.Scanner;
 
-public class bj_10¿ù01ÀÏ_»öÁ¾ÀÌ_2563 {
+public class bj_10ì›”01ì¼_ìƒ‰ì¢…ì´_2563 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
 		int count = sc.nextInt();
-		int[][] graph = new int[100][100]; // µµÈ­Áö Å©±â ¹è¿­
+		int[][] graph = new int[100][100]; // ë„í™”ì§€ í¬ê¸° ë°°ì—´
 		int sum = 0;
-		for (int c = 1; c <= count; c++) {// Á¾ÀÌ¼ö¸¸Å­ ÁøÇà
+		for (int c = 1; c <= count; c++) {// ì¢…ì´ìˆ˜ë§Œí¼ ì§„í–‰
 			int R = sc.nextInt();
 			int C = sc.nextInt();
-			for (int i = R; i < R + 10; i++) { // ÁÂÇÏ ²ÀÁöÁ¡ºÎÅÍ 10¾¿ ´Ã¾î³ª´Â °÷¿¡ 1 Âï±â
+			for (int i = R; i < R + 10; i++) { // ì¢Œí•˜ ê¼­ì§€ì ë¶€í„° 10ì”© ëŠ˜ì–´ë‚˜ëŠ” ê³³ì— 1 ì°ê¸°
 				for (int j = C; j < C + 10; j++) {
-					if (graph[i][j] == 0) {// ¸¸¾à 0ÀÌ¶ó¸é 1Âï°í sum´õÇØÁÖ±â
+					if (graph[i][j] == 0) {// ë§Œì•½ 0ì´ë¼ë©´ 1ì°ê³  sumë”í•´ì£¼ê¸°
 						graph[i][j] = 1;
 						sum++;
 					}
