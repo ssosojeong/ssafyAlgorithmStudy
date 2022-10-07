@@ -1,4 +1,4 @@
-package 단계_15_백트래킹;
+package IMstudy;
 
 import java.util.Arrays;
 import java.util.Scanner;
