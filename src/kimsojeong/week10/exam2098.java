@@ -17,7 +17,7 @@ import java.util.StringTokenizer;
 public class exam2098 {
     static int N;
     static final int INF = 100000100;
-//    static final int INF = 16000000;
+//    static final int INF = 16000001;
     static int[][] map, dp;
 
     public static void main(String[] args) throws IOException {
@@ -69,3 +69,5 @@ public class exam2098 {
 
     }
 }
+
+//김소정: 최대 거리는 1600만이니까 INF 16000001로 초기화하고 불가능할땐 1억 리턴때렸는데 왜 시간초과일까요.....?
