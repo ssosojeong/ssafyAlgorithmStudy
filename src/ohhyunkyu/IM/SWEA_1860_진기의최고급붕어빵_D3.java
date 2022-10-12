@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//이렇게 푸니까 런타임 에러 //메모리 에러 발생
+//이렇게 푸니까 런타임 에러 //메모리 에러 발생 //버퍼드리더 쓰니까 통과
 public class SWEA_1860_진기의최고급붕어빵_D3 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
