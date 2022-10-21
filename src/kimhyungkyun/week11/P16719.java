@@ -20,12 +20,7 @@ public class P16719 {
 		arr = new char[str.length()];
 
 		nowMin='a';//아스키코드 값이 대문자가 더 작기 때문에 이걸 이용해서 str 중에 가장 작은 알파벳을 찾아준다.
-		for(int i=0;i<str.length();i++) {
-			arr[i] = str.charAt(i);
-//			if(nowMin - 0 > arr[i] - 0) {
-//				nowMin = arr[i];
-//				minIdx = i;
-//			}
+		for(int i=0;i<str.length();i++) arr[i] = str.charAt(i);
 		}//for
 		
 		/////////////입력값 받기 끝
@@ -40,9 +35,7 @@ public class P16719 {
 	}//main
 
 	private static void findNext(int start, int end) {
-//		System.out.printf("s:%d e:%d\n",start,end);
 		int nextIdx = findMin(start, end);
-//		System.out.printf("index:%d \n",nextIdx);
 		if (nextIdx==-1) return;
 		v[nextIdx] = true;
 		
